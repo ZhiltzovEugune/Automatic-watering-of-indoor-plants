@@ -1,1 +1,1 @@
-# PythonApplication1
+#Automatic watering of indoor plants
